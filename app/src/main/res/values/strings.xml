@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OMG Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">Nepo is learning Android!</string>
+    <string name="button">Update The TextView</string>
+    <string name="hint">A Name</string>
+    <string name="share_title">Share</string>
+</resources>
